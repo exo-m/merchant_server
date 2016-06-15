@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": "cipgjwxkt0000kojcsvnu8vps",
+      "text": "Learn about actions",
+      "completed": false
+    },
+    {
+      "id": "cipgjwxl80001kojcmk5zxc15",
+      "text": "Learn about reducers",
+      "completed": false
+    },
+    {
+      "id": "cipgjwxlb0002kojc689xdpom",
+      "text": "Learn about store",
+      "completed": false
+    },
+    {
+      "id": "cipgjwxle0003kojcfddvzkgu",
+      "text": "Learn about sagas",
+      "completed": false
+    },
+    {
+      "id": "cipgjxqq90000n6jc6kq17m5a",
+      "text": "Learn about actions",
+      "completed": false
+    },
+    {
+      "id": "cipgjxqqc0001n6jcc1zlyoxv",
+      "text": "Learn about reducers",
+      "completed": false
+    },
+    {
+      "id": "cipgjxqqe0002n6jcj2s6te2d",
+      "text": "Learn about store",
+      "completed": false
+    },
+    {
+      "id": "cipgjxqqg0003n6jc25vkdwb7",
+      "text": "Learn about sagas",
+      "completed": false
+    }
+  ]
+}
